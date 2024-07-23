@@ -24,7 +24,7 @@ print("Suddenly, and without warning, the king of LuaLand, Lisp, dies of lung ca
 print("Ever since the king died, people in the village are currently fighting for power.")
 print("Eventually, a random teenager becomes the new king of LuaLand.")
 print("People in the village thought to themselves if the new king was going to be a great king.")
-print("Sadly, they're wrong.")
+print("Sadly, they were wrong.")
 print("Soon after, the harebrained teenager decides to change some laws such as allowing murder, witchcraft, etc.")
 print("Your goal is to kill the new king, takeover the throne, and become the greatest king to ever live.\n")
 
